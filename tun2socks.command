@@ -1,0 +1,1 @@
+sudo tun2socks config.ini
